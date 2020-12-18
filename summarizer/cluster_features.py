@@ -1,5 +1,4 @@
 from typing import List, Dict
-
 import numpy as np
 from numpy import ndarray
 from sklearn.cluster import KMeans
